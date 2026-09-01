@@ -184,7 +184,7 @@ telco-churn-prediction/
 The notebook was developed in **Google Colab**.
 
 1. Clone the repository.
-2. Open `notebooks/telco_churn_prediction.ipynb` in Google Colab or Jupyter Notebook.
+2. Open `telco_churn_prediction.ipynb` in Google Colab or Jupyter Notebook.
 3. Obtain the Telco Customer Churn dataset separately.
 4. Upload or mount the dataset in the notebook.
 5. Run the notebook cells sequentially.
