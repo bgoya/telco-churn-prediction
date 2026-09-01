@@ -176,9 +176,7 @@ These results indicate that the month-to-month contract status is highly predict
 ```text
 telco-churn-prediction/
 ├── README.md
-├── requirements.txt
-└── notebooks/
-    └── telco_churn_prediction.ipynb
+└── telco_churn_prediction.ipynb
 ```
 
 ## How to Run
