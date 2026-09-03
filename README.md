@@ -176,6 +176,7 @@ These results indicate that the month-to-month contract status is highly predict
 ```text
 telco-churn-prediction/
 ├── README.md
+├── exercises.pdf
 └── telco_churn_prediction.ipynb
 ```
 
@@ -191,8 +192,8 @@ The notebook was developed in **Google Colab**.
 
 ## Authors
 
-* Goya Bautista
-* Del Cuadro Federico
-* Doeswijk Timo
+* Goya, Bautista
+* Del Cuadro, Federico
+* Doeswijk, Timo
 
 Academic project developed for **Tecnología Digital VI: Inteligencia Artificial**.
