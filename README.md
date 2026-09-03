@@ -180,6 +180,9 @@ These results indicate that the month-to-month contract status is highly predict
 
 ```text
 telco-churn-prediction/
+├── assets
+    ├── churn_x_contract.png
+    ├── confusion_matrix.png
 ├── README.md
 └── telco_churn_prediction.ipynb
 ```
