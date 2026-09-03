@@ -1,5 +1,10 @@
 # Telco Churn Prediction
 
+<p align="center">
+  <img src="assets/churn_x_contract.png" alt="Churn distribution by type of contract" height="300">
+  <img src="assets/confusion_matrix.png" alt="Confusion matrix for first model" height="300">
+</p>
+
 Machine learning project focused on predicting customer churn in a telecommunications company and evaluating how class imbalance affects classification performance.
 
 The project explores data preprocessing, exploratory data analysis, logistic regression, cross-validation, model evaluation and random oversampling. It also reformulates the prediction target to evaluate how accurately customer contract type can be inferred from the available features.
